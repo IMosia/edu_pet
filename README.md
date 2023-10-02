@@ -1,5 +1,5 @@
 # edu_pet
-# Education Data Science Pet Projects
+# Education Data Science Projects
 
 This is a collection of education pet projects I performed during my studies as a Data Scientist (Yandex Practicum, 2023). Most of the projects are related to Machine Learning, including time series and NLP. Below you can find a brief description of all the projects in this repository.
 
